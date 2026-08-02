@@ -1,0 +1,10 @@
+* [33mfe1a2b2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Emergency request page updated
+[31m|[m * [33m7f03ae2[m[33m ([m[1;31morigin/main[m[33m)[m Update donors.csv
+[31m|[m * [33m950a87f[m Add files via upload
+[31m|[m * [33m0994a37[m Create README.md
+[31m|[m * [33m334ef65[m Delete README.md
+[31m|[m * [33m43388a6[m Delete requirements.txt
+[31m|[m * [33m05c2e98[m Delete data/donations.csv
+[31m|[m * [33m3790adc[m Delete assets/logo.png
+[31m|[m * [33me4248a2[m Delete assets/banner.jpg
+[31m|[m * [33m63da2d8[m Delete utils/ranking.py
